@@ -1,7 +1,7 @@
 #ifndef TICKERSCHEDULER_H
 #define TICKERSCHEDULER_H
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <stdint.h>
 
 
